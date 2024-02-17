@@ -1,0 +1,14 @@
+FECHA: 
+CURSO: HTML5 and CSS3
+PROF. MIGUEL PALLIN 
+SESIÓN: 03
+------------------------------------------------------------------------------------------------
+
+. TEMAS:
+	
+	Diagramando con Nuevas Etiquetas HTML5 Y Reglas CSS3.
+	Semántica Html5
+	Etiquetas HTML5 (nav, article, section, aside, header, footer).
+	Propiedades height, background-color, float, margin y padding
+------------------------------------------------------------------------------------------------ 
+
